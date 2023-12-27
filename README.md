@@ -1,2 +1,7 @@
-# Blog-Preview-Card
-Blog Preview Card Challenge | Front End Mentor
+# Frontend Mentor - Blog preview card
+
+![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+Live Preview: 
