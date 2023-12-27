@@ -22,11 +22,11 @@
   width: 370px;
   padding: 20px;
   border: 1px solid hsl(0, 0%, 7%);
-  box-shadow: 10px 10px 0 hsl(0, 0%, 7%);
+  box-shadow: 7px 7px 0 hsl(0, 0%, 7%);
 }
 .container .box:hover {
   
-  box-shadow: 15px 15px 0 hsl(0, 0%, 7%);
+  box-shadow: 14px 14px 0 hsl(0, 0%, 7%);
 }
 @media (max-width: 450px) {
   .container .box {
