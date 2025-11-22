@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-Live Preview: 
+Live Preview: https://taibihakim2002.github.io/Blog-Preview-Card/
